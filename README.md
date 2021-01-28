@@ -10,9 +10,10 @@ These scripts rely on numpy, gdal and pyshp.
 Or if you don't want to mess up with environmental setting. You can directly use the exe file(for Windows user).
 --
 --
-## How I get a csv or shp from the kml
+
+## How I get a csv or shp from the kml.
+--
 Run the kml-csv.py (or kml-shp-polygon.py), input your kml address and output dir you want to store the shp files.
---
---
+
 ## What if I don't want polygon?
 Transoform your kml to csv. And import your csv file to QGIS. 
